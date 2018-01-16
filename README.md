@@ -16,8 +16,6 @@ You can view my (tylero056 is my other username) progress of my Mac port [here](
 
 ### Latest update (from my post on [reddit.com/r/bfme2](https://www.reddit.com/r/Bfme2/comments/7e68bq/updated_mac_version_download_repostwas/))
 
-<div id="quote block" style="padding-left:20px; ">
-
 Hey guys!
 
 I updated my Mac port which fixes the auto-defeat issues, various graphics glitches, and stability issues. I also added support for macOS High Sierra, added WorldBuilder, the newer patches (BFME2 v1.6 and ROTWK v2.02) and now have separate launchers for BFME2 and ROTWK.
@@ -29,8 +27,6 @@ NOTE: ~~*Make sure to delete the old version of the app, if you'd installed a pr
 Please let me know either here or in a PM if you have any issues!
 
 &nbsp;
-
--------------------------
 
 **DOWNLOAD LINKS:** 
 
@@ -61,8 +57,6 @@ Please let me know either here or in a PM if you have any issues!
 &nbsp;
 
 -----------------
-
-</div>
 
 ### My To-Do List (Upcoming features/bug fixes):
 
